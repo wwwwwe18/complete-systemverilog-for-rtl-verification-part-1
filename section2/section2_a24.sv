@@ -1,9 +1,9 @@
 //*****************************************************
-// Project		: Code exercise A24
+// Project		: Assignment 1 - A24
 // File			: section2_a24
 // Editor		: Wenmei Wang
 // Date			: 18/09/2024
-// Description	: Code exercise A24
+// Description	: Assignment 1 - A24
 //*****************************************************
 
 `timescale 1ns / 1ps
